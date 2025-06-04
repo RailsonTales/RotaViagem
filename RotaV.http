@@ -1,0 +1,6 @@
+@RotaV_HostAddress = http://localhost:5271
+
+GET {{RotaV_HostAddress}}/rotas/
+Accept: application/json
+
+###
